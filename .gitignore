@@ -1,0 +1,14 @@
+# Build outputs
+.gradle/
+build/
+app/build/
+app/.cxx/
+local.properties
+*.keystore
+build-host/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
